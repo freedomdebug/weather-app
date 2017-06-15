@@ -1,0 +1,24 @@
+{
+  "index.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "fonts/mui.ttf",
+      "css/index.css",
+      "js/index.js",
+      "img/wind.svg",
+      "img/humidity_small.svg",
+      "img/humidity.svg",
+      "img/temp_low.svg",
+      "img/location.svg",
+      "img/temp.svg",
+      "img/weather.svg",
+      "js/mui.js",
+      "js/jquery.js",
+      "img/wind2.svg",
+      "img/summer.jpg",
+      "img/winter.jpg"
+    ],
+    "refer": []
+  }
+}
