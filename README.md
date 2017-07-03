@@ -1,4 +1,4 @@
-# beautifulweather2.0
+# weather-app
 美丽天气2.0版本，新增四季背景
 > 预览
 已经用HBuilder打包成app在手机运行。
